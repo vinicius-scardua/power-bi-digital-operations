@@ -1,0 +1,7 @@
+﻿product_id,product_name,business_unit,product_type,product_status
+P001,Academia Digital,Educação,Assinatura,Ativo
+P002,Formação em Gestão,Educação,Curso,Ativo
+P003,Comunidade Pro,Comunidade,Assinatura,Ativo
+P004,Curso de Marketing,Marketing,Curso,Ativo
+P005,Programa de Liderança,Desenvolvimento,Programa,Ativo
+P006,Clube de Tecnologia,Tecnologia,Assinatura,Ativo

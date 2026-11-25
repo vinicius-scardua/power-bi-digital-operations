@@ -1,0 +1,601 @@
+﻿student_id,region,country,acquisition_channel,registration_date
+S0001,Sudeste,Brasil,Orgânico,2024-09-28
+S0002,Nordeste,Portugal,Indicação,2024-08-17
+S0003,Norte,México,Mídia paga,2025-02-20
+S0004,Norte,México,Evento,2025-02-09
+S0005,Sudeste,Portugal,Orgânico,2024-06-04
+S0006,Sul,Brasil,Evento,2025-06-13
+S0007,Norte,Portugal,Mídia paga,2024-06-23
+S0008,Norte,México,Evento,2025-08-09
+S0009,Norte,México,Evento,2024-01-26
+S0010,Centro-Oeste,México,Mídia paga,2025-11-05
+S0011,Norte,Portugal,Mídia paga,2025-09-18
+S0012,Norte,Portugal,Evento,2024-06-27
+S0013,Centro-Oeste,Portugal,Evento,2024-01-16
+S0014,Norte,Portugal,Evento,2025-06-24
+S0015,Centro-Oeste,Brasil,Mídia paga,2024-05-17
+S0016,Sul,Brasil,Mídia paga,2025-12-22
+S0017,Sudeste,Brasil,Indicação,2024-11-13
+S0018,Norte,México,Orgânico,2024-06-07
+S0019,Sudeste,Brasil,Orgânico,2025-10-08
+S0020,Sudeste,México,Indicação,2024-06-07
+S0021,Nordeste,Portugal,Indicação,2024-01-28
+S0022,Sudeste,Portugal,Mídia paga,2024-10-28
+S0023,Centro-Oeste,Brasil,Evento,2024-05-19
+S0024,Sudeste,Brasil,Indicação,2025-02-17
+S0025,Centro-Oeste,Portugal,Mídia paga,2024-06-16
+S0026,Nordeste,México,Indicação,2025-06-18
+S0027,Sul,Portugal,Orgânico,2024-08-17
+S0028,Centro-Oeste,México,Indicação,2025-04-23
+S0029,Nordeste,México,Evento,2025-12-09
+S0030,Nordeste,Portugal,Indicação,2024-01-26
+S0031,Nordeste,Brasil,Mídia paga,2025-11-30
+S0032,Centro-Oeste,México,Evento,2025-08-31
+S0033,Norte,México,Indicação,2025-10-10
+S0034,Sudeste,Brasil,Mídia paga,2025-12-17
+S0035,Nordeste,México,Evento,2025-01-08
+S0036,Sudeste,Brasil,Mídia paga,2024-02-15
+S0037,Norte,Brasil,Mídia paga,2025-01-26
+S0038,Norte,Brasil,Evento,2024-03-02
+S0039,Nordeste,Portugal,Indicação,2025-10-24
+S0040,Nordeste,Brasil,Indicação,2024-05-02
+S0041,Centro-Oeste,Portugal,Mídia paga,2025-07-09
+S0042,Sul,Brasil,Orgânico,2025-06-17
+S0043,Norte,México,Indicação,2025-08-25
+S0044,Nordeste,México,Mídia paga,2025-11-17
+S0045,Sudeste,Brasil,Indicação,2025-07-22
+S0046,Nordeste,México,Evento,2025-04-05
+S0047,Nordeste,Portugal,Indicação,2024-01-12
+S0048,Centro-Oeste,Brasil,Evento,2024-11-01
+S0049,Centro-Oeste,México,Evento,2024-05-05
+S0050,Sudeste,Portugal,Evento,2024-11-16
+S0051,Centro-Oeste,México,Orgânico,2024-05-03
+S0052,Norte,México,Mídia paga,2025-04-18
+S0053,Norte,México,Orgânico,2025-07-02
+S0054,Centro-Oeste,México,Mídia paga,2024-02-25
+S0055,Sudeste,México,Mídia paga,2024-04-17
+S0056,Centro-Oeste,Brasil,Evento,2024-08-26
+S0057,Norte,Brasil,Indicação,2024-08-24
+S0058,Norte,Brasil,Mídia paga,2025-10-02
+S0059,Centro-Oeste,Portugal,Mídia paga,2024-05-26
+S0060,Centro-Oeste,Portugal,Mídia paga,2024-12-17
+S0061,Norte,Brasil,Evento,2024-07-01
+S0062,Nordeste,Brasil,Indicação,2025-01-28
+S0063,Centro-Oeste,México,Orgânico,2025-08-28
+S0064,Norte,México,Evento,2025-01-08
+S0065,Centro-Oeste,México,Evento,2025-03-23
+S0066,Norte,Brasil,Evento,2024-07-18
+S0067,Norte,Portugal,Mídia paga,2025-10-22
+S0068,Sudeste,México,Indicação,2025-04-26
+S0069,Norte,México,Evento,2025-06-22
+S0070,Sul,Portugal,Mídia paga,2024-05-23
+S0071,Sul,Portugal,Orgânico,2025-04-24
+S0072,Sudeste,Portugal,Orgânico,2025-02-09
+S0073,Norte,Portugal,Indicação,2025-12-12
+S0074,Sudeste,México,Indicação,2024-02-03
+S0075,Norte,Portugal,Indicação,2025-10-20
+S0076,Centro-Oeste,Portugal,Evento,2025-06-07
+S0077,Centro-Oeste,Portugal,Evento,2024-05-16
+S0078,Sul,Portugal,Evento,2024-04-07
+S0079,Centro-Oeste,Portugal,Indicação,2025-12-05
+S0080,Sul,Brasil,Evento,2025-08-25
+S0081,Sudeste,México,Indicação,2025-02-16
+S0082,Centro-Oeste,Portugal,Mídia paga,2025-10-05
+S0083,Centro-Oeste,Brasil,Orgânico,2024-04-21
+S0084,Norte,Brasil,Orgânico,2024-06-28
+S0085,Nordeste,Portugal,Orgânico,2024-04-06
+S0086,Norte,Portugal,Orgânico,2024-07-13
+S0087,Centro-Oeste,Portugal,Indicação,2025-06-25
+S0088,Nordeste,Portugal,Evento,2024-12-19
+S0089,Norte,Brasil,Orgânico,2025-02-15
+S0090,Norte,Portugal,Evento,2024-03-03
+S0091,Centro-Oeste,Portugal,Mídia paga,2025-04-11
+S0092,Centro-Oeste,México,Orgânico,2024-02-12
+S0093,Centro-Oeste,México,Evento,2024-01-21
+S0094,Sul,Portugal,Indicação,2024-06-19
+S0095,Nordeste,Portugal,Mídia paga,2024-05-11
+S0096,Nordeste,Brasil,Mídia paga,2024-08-06
+S0097,Sudeste,México,Orgânico,2025-07-10
+S0098,Sudeste,Brasil,Orgânico,2025-02-18
+S0099,Sul,Portugal,Orgânico,2025-12-07
+S0100,Norte,Brasil,Mídia paga,2025-08-16
+S0101,Centro-Oeste,México,Indicação,2025-02-06
+S0102,Norte,México,Evento,2025-09-07
+S0103,Centro-Oeste,México,Evento,2024-12-08
+S0104,Nordeste,México,Orgânico,2024-07-28
+S0105,Sul,México,Orgânico,2024-09-23
+S0106,Nordeste,México,Indicação,2024-08-14
+S0107,Centro-Oeste,México,Evento,2024-05-09
+S0108,Centro-Oeste,Portugal,Mídia paga,2025-05-17
+S0109,Norte,Portugal,Indicação,2024-10-29
+S0110,Centro-Oeste,México,Orgânico,2025-02-08
+S0111,Centro-Oeste,Brasil,Orgânico,2024-11-22
+S0112,Norte,México,Mídia paga,2024-11-24
+S0113,Sudeste,México,Indicação,2024-02-04
+S0114,Nordeste,México,Indicação,2024-03-08
+S0115,Nordeste,Portugal,Evento,2024-07-25
+S0116,Centro-Oeste,Portugal,Evento,2025-01-05
+S0117,Sudeste,Portugal,Orgânico,2024-05-02
+S0118,Centro-Oeste,México,Evento,2024-02-23
+S0119,Norte,Portugal,Indicação,2025-12-21
+S0120,Nordeste,Portugal,Orgânico,2024-02-24
+S0121,Centro-Oeste,Brasil,Orgânico,2025-03-22
+S0122,Sul,Brasil,Evento,2024-07-17
+S0123,Centro-Oeste,México,Evento,2025-05-11
+S0124,Centro-Oeste,Brasil,Orgânico,2024-03-13
+S0125,Sudeste,Portugal,Evento,2025-04-30
+S0126,Nordeste,México,Evento,2024-03-15
+S0127,Centro-Oeste,México,Orgânico,2025-10-22
+S0128,Nordeste,Portugal,Evento,2024-05-06
+S0129,Sudeste,México,Evento,2024-06-22
+S0130,Sul,Brasil,Mídia paga,2024-10-03
+S0131,Centro-Oeste,México,Orgânico,2024-08-19
+S0132,Sul,Brasil,Orgânico,2024-08-29
+S0133,Centro-Oeste,Brasil,Evento,2025-10-07
+S0134,Sudeste,Portugal,Indicação,2025-01-09
+S0135,Sudeste,Brasil,Evento,2024-03-15
+S0136,Sudeste,Brasil,Orgânico,2025-03-03
+S0137,Centro-Oeste,Portugal,Mídia paga,2024-12-12
+S0138,Norte,México,Indicação,2025-07-21
+S0139,Norte,México,Evento,2025-01-10
+S0140,Sudeste,Brasil,Orgânico,2024-02-06
+S0141,Norte,México,Mídia paga,2025-08-31
+S0142,Sul,Brasil,Indicação,2025-07-23
+S0143,Sul,Portugal,Orgânico,2025-11-02
+S0144,Sudeste,México,Indicação,2025-02-20
+S0145,Norte,Portugal,Mídia paga,2025-07-12
+S0146,Sudeste,Brasil,Mídia paga,2024-01-17
+S0147,Norte,México,Evento,2024-04-17
+S0148,Nordeste,México,Orgânico,2024-11-28
+S0149,Nordeste,Portugal,Indicação,2024-09-16
+S0150,Sul,Portugal,Mídia paga,2024-08-10
+S0151,Sudeste,México,Orgânico,2024-04-20
+S0152,Nordeste,Portugal,Evento,2025-01-31
+S0153,Norte,México,Orgânico,2024-03-19
+S0154,Norte,México,Mídia paga,2024-02-12
+S0155,Centro-Oeste,México,Mídia paga,2024-07-18
+S0156,Sul,México,Evento,2025-10-04
+S0157,Norte,Brasil,Mídia paga,2024-01-26
+S0158,Sul,Brasil,Indicação,2024-05-28
+S0159,Centro-Oeste,México,Indicação,2024-06-30
+S0160,Norte,México,Evento,2024-12-25
+S0161,Sul,México,Mídia paga,2024-01-02
+S0162,Norte,Brasil,Orgânico,2024-06-09
+S0163,Norte,México,Mídia paga,2024-04-21
+S0164,Nordeste,Brasil,Evento,2024-12-28
+S0165,Sudeste,Brasil,Mídia paga,2024-06-11
+S0166,Centro-Oeste,México,Evento,2024-01-02
+S0167,Sul,México,Mídia paga,2025-01-11
+S0168,Sul,Brasil,Indicação,2024-04-30
+S0169,Norte,México,Evento,2024-03-27
+S0170,Nordeste,Brasil,Indicação,2024-10-05
+S0171,Norte,Portugal,Mídia paga,2025-06-28
+S0172,Centro-Oeste,Portugal,Mídia paga,2024-05-20
+S0173,Centro-Oeste,Brasil,Mídia paga,2025-09-07
+S0174,Sul,Brasil,Mídia paga,2025-10-29
+S0175,Norte,Portugal,Orgânico,2024-09-13
+S0176,Sul,México,Indicação,2024-04-29
+S0177,Centro-Oeste,México,Orgânico,2025-06-06
+S0178,Sudeste,Portugal,Indicação,2024-08-04
+S0179,Sudeste,Brasil,Mídia paga,2024-10-22
+S0180,Centro-Oeste,Portugal,Mídia paga,2024-04-28
+S0181,Sudeste,Brasil,Orgânico,2025-08-04
+S0182,Sudeste,Brasil,Mídia paga,2024-01-19
+S0183,Nordeste,México,Evento,2025-06-25
+S0184,Nordeste,Brasil,Evento,2024-05-16
+S0185,Sudeste,Brasil,Evento,2024-08-07
+S0186,Sudeste,México,Evento,2025-06-05
+S0187,Norte,Brasil,Orgânico,2025-02-16
+S0188,Centro-Oeste,Portugal,Mídia paga,2025-10-13
+S0189,Nordeste,México,Evento,2024-03-08
+S0190,Nordeste,México,Evento,2024-08-20
+S0191,Centro-Oeste,Portugal,Mídia paga,2025-01-18
+S0192,Nordeste,México,Evento,2024-05-15
+S0193,Sudeste,Brasil,Mídia paga,2024-04-26
+S0194,Centro-Oeste,Portugal,Orgânico,2024-05-13
+S0195,Centro-Oeste,Brasil,Mídia paga,2024-07-08
+S0196,Norte,México,Evento,2024-06-28
+S0197,Norte,Portugal,Mídia paga,2024-08-09
+S0198,Sul,México,Mídia paga,2025-12-19
+S0199,Sul,Brasil,Evento,2025-06-18
+S0200,Norte,Portugal,Orgânico,2025-11-11
+S0201,Norte,México,Mídia paga,2025-12-09
+S0202,Sul,México,Evento,2025-01-21
+S0203,Centro-Oeste,Portugal,Evento,2024-07-28
+S0204,Norte,Brasil,Orgânico,2025-05-15
+S0205,Nordeste,Portugal,Orgânico,2025-06-29
+S0206,Centro-Oeste,Brasil,Mídia paga,2025-04-20
+S0207,Norte,México,Orgânico,2025-05-12
+S0208,Sul,México,Orgânico,2025-02-09
+S0209,Sudeste,Brasil,Mídia paga,2024-02-17
+S0210,Norte,Portugal,Evento,2024-10-23
+S0211,Centro-Oeste,Brasil,Mídia paga,2024-01-13
+S0212,Sudeste,Brasil,Evento,2025-01-03
+S0213,Sul,Brasil,Mídia paga,2024-11-08
+S0214,Sul,Portugal,Mídia paga,2024-06-24
+S0215,Sudeste,México,Orgânico,2024-10-20
+S0216,Norte,México,Indicação,2025-01-31
+S0217,Sudeste,México,Indicação,2025-06-16
+S0218,Centro-Oeste,Portugal,Orgânico,2025-12-05
+S0219,Sul,Portugal,Orgânico,2024-11-28
+S0220,Centro-Oeste,Brasil,Indicação,2024-10-20
+S0221,Sudeste,Brasil,Indicação,2025-11-26
+S0222,Sul,México,Orgânico,2024-06-04
+S0223,Norte,Brasil,Mídia paga,2024-09-19
+S0224,Sul,Brasil,Evento,2024-05-23
+S0225,Norte,Portugal,Orgânico,2025-04-02
+S0226,Sul,México,Orgânico,2025-03-16
+S0227,Sul,Portugal,Mídia paga,2024-10-02
+S0228,Sul,Brasil,Indicação,2024-03-13
+S0229,Centro-Oeste,Brasil,Orgânico,2025-10-12
+S0230,Nordeste,Brasil,Evento,2025-12-23
+S0231,Centro-Oeste,Brasil,Indicação,2024-06-09
+S0232,Norte,México,Orgânico,2025-09-20
+S0233,Centro-Oeste,Portugal,Orgânico,2025-10-05
+S0234,Sudeste,Brasil,Orgânico,2025-05-16
+S0235,Centro-Oeste,Portugal,Orgânico,2024-11-13
+S0236,Nordeste,Brasil,Evento,2024-09-18
+S0237,Sul,México,Orgânico,2025-10-09
+S0238,Nordeste,Portugal,Indicação,2025-03-31
+S0239,Sul,México,Evento,2025-02-17
+S0240,Nordeste,Portugal,Orgânico,2025-02-14
+S0241,Centro-Oeste,Portugal,Mídia paga,2024-02-10
+S0242,Centro-Oeste,Portugal,Evento,2024-10-09
+S0243,Centro-Oeste,México,Mídia paga,2025-04-23
+S0244,Nordeste,Brasil,Evento,2024-03-31
+S0245,Centro-Oeste,Portugal,Indicação,2024-08-17
+S0246,Sul,México,Orgânico,2025-09-19
+S0247,Nordeste,México,Evento,2024-08-21
+S0248,Norte,Portugal,Mídia paga,2025-02-04
+S0249,Centro-Oeste,México,Indicação,2024-02-22
+S0250,Centro-Oeste,México,Mídia paga,2025-11-08
+S0251,Sudeste,Portugal,Indicação,2025-01-05
+S0252,Norte,Brasil,Evento,2024-12-14
+S0253,Norte,Brasil,Orgânico,2024-01-22
+S0254,Nordeste,México,Orgânico,2024-10-18
+S0255,Sudeste,Brasil,Evento,2025-08-11
+S0256,Sul,Brasil,Evento,2025-02-07
+S0257,Sul,Brasil,Evento,2025-01-08
+S0258,Sudeste,Portugal,Evento,2025-04-09
+S0259,Sudeste,México,Indicação,2024-01-12
+S0260,Centro-Oeste,México,Orgânico,2025-08-07
+S0261,Nordeste,México,Mídia paga,2025-02-26
+S0262,Centro-Oeste,México,Orgânico,2024-02-19
+S0263,Norte,Brasil,Indicação,2024-12-11
+S0264,Sul,Brasil,Evento,2025-03-13
+S0265,Sudeste,Brasil,Indicação,2024-09-28
+S0266,Nordeste,Brasil,Mídia paga,2025-12-13
+S0267,Sul,México,Evento,2024-08-13
+S0268,Nordeste,Portugal,Indicação,2024-08-21
+S0269,Norte,Brasil,Indicação,2024-07-27
+S0270,Norte,Portugal,Mídia paga,2025-06-05
+S0271,Norte,Brasil,Indicação,2025-04-21
+S0272,Sul,México,Mídia paga,2025-11-20
+S0273,Sudeste,Brasil,Orgânico,2025-09-08
+S0274,Norte,México,Orgânico,2024-06-19
+S0275,Nordeste,México,Indicação,2025-02-02
+S0276,Norte,Portugal,Evento,2025-07-10
+S0277,Norte,Portugal,Evento,2025-05-10
+S0278,Sul,México,Orgânico,2025-04-20
+S0279,Norte,Portugal,Mídia paga,2024-04-21
+S0280,Nordeste,Portugal,Evento,2024-01-11
+S0281,Norte,Brasil,Orgânico,2025-09-30
+S0282,Nordeste,Portugal,Orgânico,2025-09-06
+S0283,Norte,México,Mídia paga,2025-02-14
+S0284,Sul,Portugal,Orgânico,2024-10-15
+S0285,Sudeste,Portugal,Mídia paga,2024-09-17
+S0286,Nordeste,Portugal,Indicação,2024-10-20
+S0287,Sudeste,Portugal,Indicação,2025-02-13
+S0288,Centro-Oeste,Brasil,Mídia paga,2025-09-04
+S0289,Sul,Brasil,Mídia paga,2024-11-08
+S0290,Sudeste,Brasil,Orgânico,2024-02-15
+S0291,Sudeste,México,Mídia paga,2024-09-06
+S0292,Nordeste,Brasil,Orgânico,2025-04-15
+S0293,Sul,Portugal,Orgânico,2024-07-01
+S0294,Sudeste,Portugal,Indicação,2024-01-28
+S0295,Norte,Portugal,Evento,2024-11-16
+S0296,Nordeste,México,Mídia paga,2025-03-03
+S0297,Nordeste,México,Indicação,2025-07-06
+S0298,Norte,México,Indicação,2024-09-07
+S0299,Sudeste,Brasil,Indicação,2024-05-10
+S0300,Nordeste,México,Indicação,2025-03-06
+S0301,Nordeste,México,Mídia paga,2025-02-02
+S0302,Sul,México,Orgânico,2025-11-25
+S0303,Nordeste,Portugal,Evento,2024-01-05
+S0304,Nordeste,Portugal,Mídia paga,2025-05-03
+S0305,Sudeste,México,Evento,2024-12-13
+S0306,Sudeste,Brasil,Mídia paga,2025-02-02
+S0307,Centro-Oeste,Portugal,Indicação,2025-05-30
+S0308,Nordeste,Portugal,Indicação,2025-08-29
+S0309,Centro-Oeste,Portugal,Indicação,2025-01-25
+S0310,Sudeste,México,Mídia paga,2024-12-28
+S0311,Sudeste,México,Evento,2024-03-22
+S0312,Sudeste,México,Orgânico,2025-02-22
+S0313,Sul,Brasil,Indicação,2024-11-05
+S0314,Sudeste,Portugal,Mídia paga,2025-07-13
+S0315,Nordeste,Portugal,Orgânico,2024-02-29
+S0316,Sudeste,Brasil,Mídia paga,2025-05-26
+S0317,Sudeste,Brasil,Indicação,2025-07-29
+S0318,Norte,México,Mídia paga,2025-06-20
+S0319,Norte,Brasil,Evento,2024-06-28
+S0320,Nordeste,Brasil,Orgânico,2024-02-15
+S0321,Nordeste,México,Mídia paga,2025-11-08
+S0322,Centro-Oeste,Portugal,Indicação,2024-09-11
+S0323,Norte,México,Mídia paga,2025-08-09
+S0324,Norte,Brasil,Evento,2025-03-17
+S0325,Sudeste,Portugal,Evento,2024-06-24
+S0326,Centro-Oeste,México,Orgânico,2024-07-04
+S0327,Nordeste,México,Indicação,2024-02-04
+S0328,Norte,Portugal,Mídia paga,2025-08-17
+S0329,Sul,México,Orgânico,2025-10-03
+S0330,Norte,Portugal,Mídia paga,2025-06-29
+S0331,Centro-Oeste,México,Evento,2025-03-28
+S0332,Centro-Oeste,Brasil,Orgânico,2025-02-23
+S0333,Sudeste,Brasil,Evento,2025-08-10
+S0334,Nordeste,Portugal,Mídia paga,2024-12-06
+S0335,Norte,Brasil,Mídia paga,2024-09-11
+S0336,Nordeste,Brasil,Mídia paga,2025-09-23
+S0337,Centro-Oeste,Brasil,Indicação,2025-05-24
+S0338,Nordeste,Portugal,Orgânico,2024-03-31
+S0339,Nordeste,Brasil,Orgânico,2024-04-25
+S0340,Sudeste,Brasil,Mídia paga,2024-01-07
+S0341,Centro-Oeste,México,Evento,2024-01-27
+S0342,Sudeste,Portugal,Orgânico,2025-08-05
+S0343,Nordeste,Brasil,Indicação,2025-06-14
+S0344,Nordeste,Brasil,Indicação,2025-09-04
+S0345,Nordeste,México,Orgânico,2025-05-26
+S0346,Sudeste,Brasil,Orgânico,2025-02-21
+S0347,Nordeste,México,Mídia paga,2025-11-16
+S0348,Centro-Oeste,México,Indicação,2024-01-23
+S0349,Nordeste,Brasil,Orgânico,2024-01-31
+S0350,Norte,México,Mídia paga,2024-06-29
+S0351,Sudeste,Portugal,Orgânico,2025-06-05
+S0352,Norte,México,Mídia paga,2024-05-10
+S0353,Nordeste,Brasil,Evento,2024-06-20
+S0354,Sul,Portugal,Evento,2024-01-13
+S0355,Norte,Portugal,Mídia paga,2025-05-20
+S0356,Sudeste,Brasil,Indicação,2024-01-18
+S0357,Sudeste,Portugal,Orgânico,2024-03-30
+S0358,Sul,México,Mídia paga,2025-10-05
+S0359,Norte,Portugal,Evento,2025-03-10
+S0360,Sudeste,México,Evento,2025-09-23
+S0361,Sudeste,Brasil,Evento,2024-05-28
+S0362,Sudeste,Portugal,Orgânico,2025-09-24
+S0363,Sul,Brasil,Mídia paga,2025-06-17
+S0364,Norte,México,Mídia paga,2024-09-24
+S0365,Nordeste,Portugal,Indicação,2024-11-15
+S0366,Norte,Portugal,Mídia paga,2024-07-09
+S0367,Nordeste,Brasil,Mídia paga,2025-05-25
+S0368,Sudeste,Portugal,Evento,2025-06-12
+S0369,Centro-Oeste,Brasil,Orgânico,2024-05-26
+S0370,Norte,México,Orgânico,2024-02-22
+S0371,Sul,Brasil,Evento,2025-12-19
+S0372,Nordeste,Portugal,Evento,2025-01-23
+S0373,Centro-Oeste,Brasil,Orgânico,2024-06-05
+S0374,Centro-Oeste,Brasil,Orgânico,2024-10-10
+S0375,Centro-Oeste,México,Evento,2024-09-29
+S0376,Sul,Portugal,Indicação,2024-08-10
+S0377,Centro-Oeste,México,Evento,2024-03-05
+S0378,Sul,Portugal,Evento,2025-04-23
+S0379,Sul,Portugal,Orgânico,2025-03-25
+S0380,Sul,México,Mídia paga,2024-10-06
+S0381,Norte,Brasil,Orgânico,2025-03-11
+S0382,Sudeste,Portugal,Mídia paga,2025-01-29
+S0383,Norte,Brasil,Orgânico,2024-10-04
+S0384,Norte,Portugal,Indicação,2024-08-03
+S0385,Centro-Oeste,México,Evento,2024-06-18
+S0386,Nordeste,Brasil,Indicação,2025-10-05
+S0387,Sul,México,Indicação,2024-07-31
+S0388,Sul,Portugal,Mídia paga,2024-04-25
+S0389,Sudeste,Brasil,Indicação,2025-03-18
+S0390,Sudeste,Portugal,Evento,2025-12-16
+S0391,Nordeste,Brasil,Orgânico,2025-04-30
+S0392,Norte,México,Orgânico,2025-03-26
+S0393,Centro-Oeste,Portugal,Orgânico,2025-04-03
+S0394,Centro-Oeste,Portugal,Evento,2025-09-02
+S0395,Nordeste,Portugal,Mídia paga,2024-06-11
+S0396,Nordeste,México,Indicação,2024-03-27
+S0397,Sul,México,Evento,2024-10-20
+S0398,Norte,Brasil,Indicação,2024-04-03
+S0399,Sudeste,Portugal,Indicação,2025-12-16
+S0400,Sul,México,Mídia paga,2025-01-16
+S0401,Norte,México,Indicação,2024-08-09
+S0402,Sudeste,Brasil,Mídia paga,2024-10-23
+S0403,Norte,México,Evento,2024-11-02
+S0404,Nordeste,Brasil,Mídia paga,2025-03-28
+S0405,Nordeste,México,Evento,2025-10-19
+S0406,Norte,Portugal,Evento,2025-09-10
+S0407,Nordeste,Brasil,Evento,2025-11-04
+S0408,Sudeste,México,Indicação,2025-02-07
+S0409,Sudeste,Brasil,Orgânico,2025-03-25
+S0410,Sul,México,Evento,2024-05-16
+S0411,Centro-Oeste,Brasil,Evento,2025-10-18
+S0412,Sudeste,Portugal,Mídia paga,2024-12-25
+S0413,Sul,Portugal,Indicação,2024-06-25
+S0414,Norte,Brasil,Evento,2024-03-05
+S0415,Sul,Brasil,Mídia paga,2025-06-28
+S0416,Centro-Oeste,Portugal,Mídia paga,2025-08-28
+S0417,Nordeste,Portugal,Indicação,2025-08-12
+S0418,Sul,Brasil,Mídia paga,2024-02-06
+S0419,Norte,Brasil,Orgânico,2024-08-03
+S0420,Nordeste,Brasil,Indicação,2024-08-09
+S0421,Nordeste,Brasil,Mídia paga,2024-06-21
+S0422,Sul,Portugal,Indicação,2024-03-15
+S0423,Nordeste,Brasil,Orgânico,2024-05-10
+S0424,Nordeste,México,Evento,2025-03-18
+S0425,Centro-Oeste,Portugal,Indicação,2025-12-23
+S0426,Centro-Oeste,Portugal,Indicação,2025-02-09
+S0427,Norte,Brasil,Indicação,2025-06-06
+S0428,Centro-Oeste,Portugal,Mídia paga,2025-03-02
+S0429,Norte,Brasil,Evento,2025-08-27
+S0430,Nordeste,Brasil,Evento,2024-06-09
+S0431,Sul,Brasil,Evento,2024-06-19
+S0432,Sul,México,Orgânico,2025-04-21
+S0433,Centro-Oeste,México,Mídia paga,2024-04-01
+S0434,Sul,México,Mídia paga,2024-08-13
+S0435,Centro-Oeste,México,Orgânico,2025-06-22
+S0436,Sudeste,Brasil,Orgânico,2024-07-12
+S0437,Nordeste,Portugal,Mídia paga,2024-05-01
+S0438,Norte,México,Evento,2024-06-25
+S0439,Centro-Oeste,México,Mídia paga,2025-08-01
+S0440,Sudeste,Brasil,Orgânico,2024-10-06
+S0441,Sul,Portugal,Evento,2025-05-15
+S0442,Sudeste,México,Evento,2024-04-02
+S0443,Nordeste,Portugal,Mídia paga,2025-01-15
+S0444,Nordeste,México,Evento,2025-11-11
+S0445,Norte,México,Orgânico,2024-01-29
+S0446,Nordeste,Brasil,Orgânico,2025-11-17
+S0447,Sul,Brasil,Mídia paga,2024-05-10
+S0448,Sudeste,México,Orgânico,2025-10-15
+S0449,Sudeste,México,Orgânico,2025-09-26
+S0450,Norte,Portugal,Indicação,2025-01-17
+S0451,Sul,Brasil,Indicação,2024-06-02
+S0452,Norte,Portugal,Mídia paga,2025-09-22
+S0453,Nordeste,Brasil,Mídia paga,2024-07-04
+S0454,Norte,Brasil,Indicação,2024-02-27
+S0455,Sudeste,México,Mídia paga,2025-05-17
+S0456,Centro-Oeste,Brasil,Mídia paga,2024-10-28
+S0457,Centro-Oeste,Portugal,Orgânico,2024-06-24
+S0458,Norte,Brasil,Mídia paga,2024-12-10
+S0459,Norte,Brasil,Indicação,2025-01-29
+S0460,Sul,Portugal,Mídia paga,2024-11-24
+S0461,Norte,México,Evento,2025-05-22
+S0462,Sudeste,México,Mídia paga,2025-08-05
+S0463,Sudeste,Brasil,Evento,2025-05-27
+S0464,Sul,Portugal,Orgânico,2024-07-12
+S0465,Centro-Oeste,Portugal,Indicação,2025-04-25
+S0466,Nordeste,Brasil,Mídia paga,2024-04-09
+S0467,Norte,México,Mídia paga,2025-05-14
+S0468,Nordeste,México,Evento,2025-12-15
+S0469,Nordeste,México,Orgânico,2025-02-17
+S0470,Sudeste,Brasil,Indicação,2024-08-10
+S0471,Norte,México,Evento,2024-10-30
+S0472,Sul,México,Orgânico,2024-11-30
+S0473,Sul,México,Mídia paga,2024-06-03
+S0474,Nordeste,México,Evento,2025-03-16
+S0475,Nordeste,México,Orgânico,2024-02-05
+S0476,Norte,Brasil,Orgânico,2025-12-25
+S0477,Nordeste,Portugal,Orgânico,2025-03-13
+S0478,Nordeste,Brasil,Orgânico,2024-09-21
+S0479,Sul,México,Orgânico,2024-11-18
+S0480,Centro-Oeste,Portugal,Orgânico,2024-01-04
+S0481,Sul,Brasil,Mídia paga,2024-03-13
+S0482,Sudeste,México,Indicação,2024-03-20
+S0483,Norte,Portugal,Orgânico,2024-10-26
+S0484,Centro-Oeste,Portugal,Orgânico,2025-01-18
+S0485,Centro-Oeste,Brasil,Evento,2025-09-18
+S0486,Nordeste,Brasil,Orgânico,2024-10-20
+S0487,Norte,Brasil,Orgânico,2025-02-24
+S0488,Sul,Brasil,Orgânico,2024-02-03
+S0489,Norte,Portugal,Evento,2025-08-09
+S0490,Sudeste,Portugal,Orgânico,2025-03-16
+S0491,Sul,México,Indicação,2025-01-04
+S0492,Nordeste,Brasil,Indicação,2025-10-11
+S0493,Norte,Portugal,Evento,2025-06-29
+S0494,Sul,México,Indicação,2024-10-18
+S0495,Sul,México,Indicação,2024-12-03
+S0496,Sudeste,Brasil,Orgânico,2024-02-17
+S0497,Sudeste,Brasil,Mídia paga,2024-01-29
+S0498,Norte,Brasil,Evento,2025-04-14
+S0499,Sudeste,Brasil,Orgânico,2025-10-08
+S0500,Nordeste,México,Indicação,2024-10-01
+S0501,Sudeste,Brasil,Orgânico,2025-12-30
+S0502,Nordeste,México,Mídia paga,2025-06-17
+S0503,Nordeste,Portugal,Evento,2024-11-27
+S0504,Sul,Portugal,Evento,2024-04-28
+S0505,Norte,Portugal,Orgânico,2024-10-18
+S0506,Sul,México,Evento,2025-07-10
+S0507,Norte,México,Evento,2024-04-29
+S0508,Norte,Brasil,Orgânico,2024-01-01
+S0509,Sul,Portugal,Orgânico,2024-04-24
+S0510,Sul,Brasil,Mídia paga,2024-07-31
+S0511,Sudeste,Brasil,Evento,2024-08-31
+S0512,Nordeste,Portugal,Indicação,2024-03-06
+S0513,Centro-Oeste,Brasil,Mídia paga,2025-01-16
+S0514,Sudeste,México,Orgânico,2025-03-14
+S0515,Sudeste,Brasil,Orgânico,2024-02-13
+S0516,Centro-Oeste,México,Orgânico,2024-09-21
+S0517,Nordeste,México,Indicação,2025-11-29
+S0518,Norte,Brasil,Orgânico,2024-01-30
+S0519,Nordeste,Portugal,Indicação,2025-07-21
+S0520,Sudeste,México,Indicação,2025-12-29
+S0521,Nordeste,Brasil,Orgânico,2024-07-21
+S0522,Centro-Oeste,México,Orgânico,2025-04-20
+S0523,Centro-Oeste,Portugal,Mídia paga,2025-06-07
+S0524,Sudeste,Brasil,Orgânico,2024-03-14
+S0525,Norte,Portugal,Indicação,2025-09-15
+S0526,Norte,México,Orgânico,2024-12-05
+S0527,Sul,Brasil,Orgânico,2025-10-20
+S0528,Nordeste,Brasil,Mídia paga,2025-12-20
+S0529,Centro-Oeste,Brasil,Indicação,2025-09-28
+S0530,Norte,Portugal,Evento,2025-03-07
+S0531,Nordeste,Brasil,Indicação,2024-03-07
+S0532,Sudeste,México,Evento,2024-01-16
+S0533,Sudeste,Portugal,Orgânico,2024-03-13
+S0534,Sudeste,México,Evento,2024-03-04
+S0535,Centro-Oeste,Portugal,Evento,2024-04-27
+S0536,Nordeste,México,Orgânico,2025-08-12
+S0537,Nordeste,México,Mídia paga,2025-12-26
+S0538,Sul,Portugal,Mídia paga,2024-12-11
+S0539,Sul,México,Indicação,2025-12-30
+S0540,Nordeste,Portugal,Indicação,2024-10-19
+S0541,Centro-Oeste,Brasil,Orgânico,2024-09-26
+S0542,Norte,México,Orgânico,2024-11-12
+S0543,Norte,México,Indicação,2025-01-22
+S0544,Nordeste,México,Evento,2024-03-07
+S0545,Nordeste,Brasil,Evento,2025-01-10
+S0546,Centro-Oeste,México,Orgânico,2024-04-14
+S0547,Centro-Oeste,Portugal,Orgânico,2024-12-29
+S0548,Nordeste,Brasil,Indicação,2025-05-14
+S0549,Sul,Brasil,Evento,2024-12-22
+S0550,Sul,Portugal,Evento,2025-11-16
+S0551,Centro-Oeste,Brasil,Orgânico,2024-09-10
+S0552,Sul,Portugal,Mídia paga,2025-09-25
+S0553,Nordeste,México,Evento,2025-10-09
+S0554,Nordeste,México,Indicação,2025-10-12
+S0555,Centro-Oeste,México,Indicação,2024-05-17
+S0556,Norte,México,Indicação,2024-03-11
+S0557,Centro-Oeste,México,Orgânico,2024-02-20
+S0558,Sul,Brasil,Indicação,2025-11-15
+S0559,Sul,Portugal,Indicação,2024-06-24
+S0560,Centro-Oeste,México,Evento,2024-12-25
+S0561,Norte,México,Orgânico,2024-10-24
+S0562,Sul,Brasil,Indicação,2025-08-08
+S0563,Centro-Oeste,Brasil,Evento,2024-02-09
+S0564,Nordeste,Portugal,Orgânico,2025-10-04
+S0565,Nordeste,México,Evento,2025-09-16
+S0566,Sudeste,Brasil,Orgânico,2024-06-17
+S0567,Nordeste,México,Mídia paga,2025-10-29
+S0568,Nordeste,Portugal,Orgânico,2024-03-08
+S0569,Centro-Oeste,México,Indicação,2025-07-17
+S0570,Nordeste,Brasil,Orgânico,2025-10-18
+S0571,Sul,Brasil,Mídia paga,2025-05-31
+S0572,Norte,México,Evento,2025-09-30
+S0573,Nordeste,Portugal,Orgânico,2024-03-01
+S0574,Sul,Brasil,Evento,2024-10-17
+S0575,Nordeste,México,Evento,2025-08-22
+S0576,Sul,México,Mídia paga,2025-09-10
+S0577,Norte,México,Mídia paga,2024-12-05
+S0578,Sudeste,Portugal,Mídia paga,2024-09-12
+S0579,Nordeste,Brasil,Mídia paga,2024-03-18
+S0580,Nordeste,Brasil,Orgânico,2024-11-02
+S0581,Norte,Brasil,Evento,2024-07-02
+S0582,Centro-Oeste,Brasil,Evento,2024-08-14
+S0583,Centro-Oeste,México,Indicação,2025-05-12
+S0584,Centro-Oeste,México,Mídia paga,2025-10-03
+S0585,Sudeste,Portugal,Orgânico,2024-08-23
+S0586,Norte,Brasil,Evento,2024-08-08
+S0587,Nordeste,Portugal,Evento,2025-10-20
+S0588,Centro-Oeste,Portugal,Evento,2025-01-26
+S0589,Nordeste,Brasil,Indicação,2025-10-23
+S0590,Sudeste,Portugal,Mídia paga,2025-08-02
+S0591,Centro-Oeste,México,Evento,2025-03-31
+S0592,Norte,Portugal,Indicação,2025-08-02
+S0593,Norte,Brasil,Mídia paga,2024-11-22
+S0594,Sul,Portugal,Orgânico,2024-04-08
+S0595,Centro-Oeste,México,Indicação,2025-03-03
+S0596,Nordeste,México,Mídia paga,2025-06-21
+S0597,Nordeste,Brasil,Orgânico,2024-11-30
+S0598,Sudeste,Portugal,Evento,2024-10-22
+S0599,Centro-Oeste,México,Indicação,2024-05-24
+S0600,Sul,Brasil,Evento,2024-10-02
