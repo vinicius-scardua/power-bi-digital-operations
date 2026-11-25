@@ -1,73 +1,73 @@
 # Digital Operations BI – Portfolio
 
-Projeto de Business Intelligence desenvolvido com Power BI para análise de operações digitais, utilizando uma base de dados totalmente fictícia.
+A Business Intelligence project developed with Power BI to analyze digital operations using a fully fictional dataset.
 
-## Sobre o projeto
+## About the Project
 
-O objetivo deste projeto é desenvolver um dashboard interativo para acompanhar indicadores operacionais e apoiar análises relacionadas a produtos digitais, matrículas, receita, suporte ao cliente, engajamento em comunidades e mentorias.
+The goal of this project is to build an interactive dashboard to monitor operational performance and explore data related to digital products, enrollments, revenue, customer support, community engagement, and mentorship sessions.
 
-O projeto simula um cenário de uma empresa de educação digital com múltiplos produtos e permite explorar diferentes perspectivas da operação por meio de indicadores e filtros.
+The project simulates a digital education company managing multiple products and provides different perspectives on its operations through key performance indicators and interactive filters.
 
 ## Dashboard
 
 ![Digital Operations BI Dashboard](images/dashboard-overview.png)
 
-## Indicadores (KPIs)
+## Key Performance Indicators (KPIs)
 
-O dashboard apresenta seis indicadores principais:
+The dashboard includes six main KPIs:
 
-- **Total de matrículas:** quantidade de matrículas registradas.
-- **Estudantes com matrículas:** quantidade de estudantes únicos com pelo menos uma matrícula.
-- **Receita total:** soma dos valores das matrículas.
-- **Total de tickets:** quantidade de chamados de suporte registrados.
-- **Tempo médio de resolução:** média de horas necessárias para resolver os tickets.
-- **Satisfação média:** média das avaliações de satisfação dos atendimentos.
+- **Total Enrollments:** total number of recorded enrollments.
+- **Students with Enrollments:** number of unique students with at least one enrollment.
+- **Total Revenue:** sum of enrollment amounts.
+- **Total Support Tickets:** total number of recorded support tickets.
+- **Average Resolution Time:** average number of hours required to resolve support tickets.
+- **Average Satisfaction Score:** average customer satisfaction rating.
 
-## Análises disponíveis
+## Available Analyses
 
-O relatório apresenta seis visualizações:
+The report includes six visualizations:
 
-- Matrículas por produto.
-- Receita por produto.
-- Distribuição de matrículas por status.
-- Tickets de suporte por categoria.
-- Atividades nas comunidades por tipo.
-- Distribuição das sessões de mentoria.
+- Enrollments by Product.
+- Revenue by Product.
+- Enrollment Distribution by Status.
+- Support Tickets by Category.
+- Community Activities by Type.
+- Mentorship Sessions by Status.
 
-## Interatividade
+## Interactivity
 
-O dashboard possui filtros interativos para explorar os dados por:
+The dashboard includes interactive filters to explore the data by:
 
-- **Produto:** permite selecionar um ou mais produtos.
-- **Período:** permite analisar diferentes datas e períodos.
+- **Product:** select one or multiple digital products.
+- **Date Range:** analyze data across different dates and periods.
 
-Os filtros interagem com os indicadores e gráficos, permitindo comparar resultados e observar mudanças nos dados conforme os critérios selecionados.
+The filters interact with the KPIs and charts, allowing users to explore results and compare operational performance across different criteria.
 
-## Base de dados
+## Dataset
 
-O projeto utiliza sete arquivos CSV com dados sintéticos:
+The project uses seven CSV files containing synthetic data:
 
-| Arquivo | Descrição |
+| File | Description |
 |---|---|
-| `dim_products.csv` | Cadastro de produtos digitais |
-| `dim_students.csv` | Cadastro de estudantes |
-| `dim_date.csv` | Dimensão de datas |
-| `fact_enrollments.csv` | Dados de matrículas e receita |
-| `fact_community_activity.csv` | Atividades nas comunidades |
-| `fact_support_tickets.csv` | Tickets de suporte |
-| `fact_mentorship_sessions.csv` | Sessões de mentoria |
+| `dim_products.csv` | Digital product information |
+| `dim_students.csv` | Student information |
+| `dim_date.csv` | Date dimension |
+| `fact_enrollments.csv` | Enrollment and revenue records |
+| `fact_community_activity.csv` | Community engagement activities |
+| `fact_support_tickets.csv` | Customer support tickets |
+| `fact_mentorship_sessions.csv` | Mentorship session records |
 
-**Importante:** todos os dados utilizados são fictícios, criados exclusivamente para fins educacionais e de demonstração de habilidades analíticas. Não representam clientes, estudantes ou resultados de uma empresa real.
+**Data disclaimer:** All data used in this project is fictional and was created exclusively for educational and portfolio purposes. It does not represent real customers, students, or business results.
 
-## Tecnologias e ferramentas
+## Tools and Technologies
 
 - Power BI
 - Power Query
 - DAX
 - CSV
-- Modelagem de dados
+- Data Modeling
 
-## Estrutura do projeto
+## Project Structure
 
 ```text
 power-bi-digital-operations/
@@ -88,7 +88,7 @@ power-bi-digital-operations/
     └── dashboard-overview.png
 ```
 
-## Objetivo profissional
+## Professional Purpose
 
-Este projeto faz parte do meu portfólio de análise de dados e operações digitais, demonstrando conhecimentos em organização e modelagem de dados, construção de indicadores, análise de desempenho operacional e desenvolvimento de dashboards interativos.
+This project is part of my portfolio in Digital Operations and Business Intelligence. It demonstrates practical skills in data organization, data modeling, KPI development, operational analysis, and interactive dashboard design.
 
